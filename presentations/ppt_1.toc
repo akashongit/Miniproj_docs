@@ -2,3 +2,10 @@
 \select@language {english}
 \beamer@sectionintoc {1}{Introduction}{2}{0}{1}
 \beamer@sectionintoc {2}{Report of Work Done}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{Literature Survey Report}{3}{0}{2}
+\beamer@subsectionintoc {2}{2}{System Study Report}{4}{0}{2}
+\beamer@sectionintoc {3}{Proposed Project}{5}{0}{3}
+\beamer@subsectionintoc {3}{1}{Problem Statement}{5}{0}{3}
+\beamer@subsectionintoc {3}{2}{Proposed Solution}{6}{0}{3}
+\beamer@subsectionintoc {3}{3}{Hardware \& Software Requirements}{7}{0}{3}
+\beamer@sectionintoc {4}{Weekly Work Schedule}{8}{0}{4}

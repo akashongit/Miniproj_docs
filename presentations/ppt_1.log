@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.1.14)  18 JAN 2017 08:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.1.14)  18 JAN 2017 20:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -932,7 +932,7 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 ) (./ppt_1.nav)
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 26.
+(Font)              size <5> substituted on input line 31.
 
 [1{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
 
@@ -949,7 +949,24 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 
 ] [7
 
-] [8
+]
+LaTeX Font Info:    Try loading font information for U+msa on input line 90.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 90.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
+line 90.
+
+(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+)
+[8
 
 ]
 \tf@nav=\write6
@@ -961,11 +978,11 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 \tf@snm=\write8
 \openout8 = `ppt_1.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
  (./ppt_1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 92.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 92.
 Package rerunfilecheck Info: File `ppt_1.out' has not changed.
 (rerunfilecheck)             Checksum: A25D7E4E409A00243572C0EF958BBEFC;564.
 
@@ -973,21 +990,21 @@ Package rerunfilecheck Info: File `ppt_1.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 92.
  ) 
 Here is how much of TeX's memory you used:
- 17239 strings out of 494946
- 328510 string characters out of 6180981
- 412090 words of memory out of 5000000
- 20111 multiletter control sequences out of 15000+600000
- 5758 words of font info for 21 fonts, out of 8000000 for 9000
+ 17303 strings out of 494946
+ 329996 string characters out of 6180981
+ 415090 words of memory out of 5000000
+ 20154 multiletter control sequences out of 15000+600000
+ 11001 words of font info for 40 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  56i,15n,64p,385b,537s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb>
-Output written on ppt_1.pdf (8 pages, 53521 bytes).
+Output written on ppt_1.pdf (8 pages, 55886 bytes).
 PDF statistics:
  201 PDF objects out of 1000 (max. 8388607)
  178 compressed objects within 2 object streams
